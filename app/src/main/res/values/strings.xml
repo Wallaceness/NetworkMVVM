@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">NetworkMVVM</string>
+    <string name="enter_count">Enter count</string>
+    <string name="load_data">Load Data</string>
 </resources>
